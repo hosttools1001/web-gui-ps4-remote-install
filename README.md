@@ -4,22 +4,8 @@ use o XAMPP para servi-lo via pc
 Baixe e instale o xampp
 [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 
-estrutura de pastas
-/ps4 remote gui web/
-│── /css/                   # Arquivos de estilos CSS
-│   ├── style.css
-│── /extra/                 # Pasta para logs e arquivos temporários
-│   ├── logs.txt
-│   ├── task_id.txt
-│   ├── /temp/              # Subpasta para arquivos temporários
-│── /imagens/               # Armazena imagens usadas no site
-│   ├── favicon.png
-│   ├── default.png
-│── /pkg/                   # Pasta onde os pacotes de instalação são armazenados
-│   ├── NomeDoJogo1/        # Cada jogo tem sua própria pasta
-│   │   ├── NomeDoJogo1.pkg
-│   │   ├── NomeDoJogo1.png  # Capa do jogo (opcional)
-│── index.php
+![image](https://github.com/user-attachments/assets/3805c977-91ac-466d-b632-f57bfea3561d)
+
 
 Certifique-se que cada .pkg tenha seu próprio diretório dentro do diretório "pkg" a imagem para o .pkg devera ter o mesmo nome do diretório na qual ela está.
 E possível ter mais de um .pkg por diretório  
