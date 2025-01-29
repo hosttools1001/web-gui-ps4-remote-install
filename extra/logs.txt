@@ -1,0 +1,442 @@
+
+Fri, 26 Oct 18 21:49:28 +0000		install		{ "status": "success", "task_id": 106, "title": "A Way Out" }
+
+Sat, 27 Oct 18 21:04:26 +0000		install		{ "status": "fail", "error": "Unexpected element value of parameter 'packages'." }
+
+Sat, 27 Oct 18 21:07:10 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/fs26.fex.net\/get\/813486448373\/364610428\/0ef3c197\/EP0700-CUSA07439_00-DARKSOULS3BST000-A0100-V0100_pshome.org.pkg'." }
+
+Sat, 27 Oct 18 21:09:10 +0000		install		{ "status": "success", "task_id": 110, "title": "Dishonored: Death of the Outsider" }
+
+Sat, 27 Oct 18 21:14:33 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/fs28.fex.net\/load\/627384319858\/797373996\/cecc118b\/1.EP4321-CUSA04854_00-SNIPER3GHWARRIOR-A0100-V0100[pshome.org].pkg'." }
+
+Sat, 27 Oct 18 21:17:45 +0000		install		{ "status": "fail", "error": "Unexpected element value of parameter 'packages'." }
+
+Sat, 27 Oct 18 21:19:10 +0000		install		{ "status": "fail", "error": "Unexpected element value of parameter 'packages'." }
+
+Sat, 27 Oct 18 21:22:17 +0000		install		{ "status": "fail", "error": "Unexpected element value of parameter 'packages'." }
+
+Sun, 26 Jan 25 01:50:44 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 01:52:09 +0000		get_task_progress		{ "status": "fail", "error_code": 0x80990019 }
+
+Sun, 26 Jan 25 01:52:17 +0000		get_task_progress		{ "status": "fail", "error_code": 0x80990019 }
+
+Sun, 26 Jan 25 01:52:21 +0000		get_task_progress		{ "status": "fail", "error_code": 0x80990019 }
+
+Sun, 26 Jan 25 01:52:25 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 01:52:43 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/'." }
+
+Sun, 26 Jan 25 01:52:48 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 01:53:00 +0000		get_task_progress		{ "status": "fail", "error_code": 0x80990019 }
+
+Sun, 26 Jan 25 01:53:25 +0000		get_task_progress		{ "status": "fail", "error_code": 0x80990019 }
+
+Sun, 26 Jan 25 02:19:31 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/'." }
+
+Sun, 26 Jan 25 02:19:32 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/'." }
+
+Sun, 26 Jan 25 02:19:36 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:20:03 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:21:12 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:21:36 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:21:39 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:23:51 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:23:57 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:24:33 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:24:40 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:24:48 +0000		get_task_progress		{ "status": "fail", "error_code": 0x80990019 }
+
+Sun, 26 Jan 25 02:24:55 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:31:54 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/localhost:8080\/brew.pkg'." }
+
+Sun, 26 Jan 25 02:31:59 +0000		get_task_progress		{ "status": "fail", "error_code": 0x80990019 }
+
+Sun, 26 Jan 25 02:41:15 +0000		install		{ "status": "success", "task_id": 315, "title": "Brew" }
+
+Sun, 26 Jan 25 02:43:18 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/'." }
+
+Sun, 26 Jan 25 02:45:01 +0000		get_task_progress		{ "status": "fail", "error_code": 0x80990019 }
+
+Sun, 26 Jan 25 02:46:56 +0000		install		{ "status": "success", "task_id": 317, "title": "Brew" }
+
+Sun, 26 Jan 25 02:50:48 +0000		install		{ "status": "success", "task_id": 323, "title": "Brew" }
+
+Sun, 26 Jan 25 02:51:36 +0000		install		{ "status": "success", "task_id": 327, "title": "Brew" }
+
+Sun, 26 Jan 25 03:03:42 +0000		install		{ "status": "success", "task_id": 329, "title": "Brew" }
+
+Sun, 26 Jan 25 03:07:26 +0000		install		{ "status": "success", "task_id": 331, "title": "Brew" }
+
+Sun, 26 Jan 25 03:07:50 +0000		install		{ "status": "success", "task_id": 333, "title": "Brew" }
+
+Sun, 26 Jan 25 03:25:37 +0000		install		{ "status": "success", "task_id": 335, "title": "Brew" }
+
+Sun, 26 Jan 25 03:26:09 +0000		install		{ "status": "success", "task_id": 337, "title": "Brew" }
+
+Sun, 26 Jan 25 03:56:42 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Sun, 26 Jan 25 03:56:53 +0000		install		{ "status": "success", "task_id": 339, "title": "Brew" }
+
+Sun, 26 Jan 25 04:00:26 +0000		install		{ "status": "success", "task_id": 341, "title": "Brew" }
+
+Sun, 26 Jan 25 04:00:57 +0000		install		{ "status": "success", "task_id": 343, "title": "Brew" }
+
+Sun, 26 Jan 25 04:04:18 +0000		install		{ "status": "success", "task_id": 345, "title": "Brew" }
+
+Sun, 26 Jan 25 04:06:53 +0000		install		{ "status": "success", "task_id": 347, "title": "Brew" }
+
+Sun, 26 Jan 25 04:10:48 +0000		install		{ "status": "success", "task_id": 355, "title": "Brew" }
+
+Sun, 26 Jan 25 04:17:26 +0000		install		{ "status": "success", "task_id": 357, "title": "Brew" }
+
+Sun, 26 Jan 25 04:23:13 +0000		install		{ "status": "success", "task_id": 359, "title": "Brew" }
+
+Sun, 26 Jan 25 04:26:03 +0000		install		{ "status": "success", "task_id": 361, "title": "Brew" }
+
+Sun, 26 Jan 25 04:28:41 +0000		install		{ "status": "success", "task_id": 367, "title": "Brew" }
+
+Sun, 26 Jan 25 04:35:28 +0000		install		{ "status": "success", "task_id": 371, "title": "Brew" }
+
+Sun, 26 Jan 25 04:35:59 +0000		install		{ "status": "success", "task_id": 373, "title": "Brew" }
+
+Sun, 26 Jan 25 04:36:06 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Sun, 26 Jan 25 04:37:41 +0000		install		{ "status": "success", "task_id": 375, "title": "Store" }
+
+Sun, 26 Jan 25 04:37:46 +0000		install		{ "status": "success", "task_id": 376, "title": "Brew" }
+
+Sun, 26 Jan 25 04:49:27 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Sun, 26 Jan 25 04:49:35 +0000		install		{ "status": "success", "task_id": 379, "title": "Brew" }
+
+Sun, 26 Jan 25 05:03:54 +0000		install		{ "status": "success", "task_id": 381, "title": "Brew" }
+
+Sun, 26 Jan 25 05:26:15 +0000		install		{ "status": "success", "task_id": 383, "title": "Brew" }
+
+Sun, 26 Jan 25 05:40:20 +0000		install		{ "status": "success", "task_id": 385, "title": "Brew" }
+
+Sun, 26 Jan 25 05:40:53 +0000		install		{ "status": "success", "task_id": 387, "title": "Brew" }
+
+Sun, 26 Jan 25 05:46:08 +0000		install		{ "status": "success", "task_id": 389, "title": "Brew" }
+
+Sun, 26 Jan 25 05:46:37 +0000		install		{ "status": "success", "task_id": 391, "title": "Brew" }
+
+Sun, 26 Jan 25 05:46:46 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Sun, 26 Jan 25 05:46:48 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Sun, 26 Jan 25 05:47:22 +0000		install		{ "status": "success", "task_id": 393, "title": "Store" }
+
+Sun, 26 Jan 25 05:47:25 +0000		install		{ "status": "success", "task_id": 394, "title": "Brew" }
+
+Sun, 26 Jan 25 05:53:42 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hbkg\/brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/hbkg\/brew.pkg'." }
+
+Sun, 26 Jan 25 05:53:50 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hbkg\/brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/hbkg\/brew.pkg'." }
+
+Sun, 26 Jan 25 05:54:24 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hbkg\/brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/hbkg\/brew.pkg'." }
+
+Sun, 26 Jan 25 05:54:27 +0000		install		{ "status": "success", "task_id": 397, "title": "Brew" }
+
+Sun, 26 Jan 25 05:54:54 +0000		install		{ "status": "success", "task_id": 399, "title": "Brew" }
+
+Sun, 26 Jan 25 05:55:14 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Sun, 26 Jan 25 05:55:23 +0000		install		{ "status": "success", "task_id": 401, "title": "Brew" }
+
+Mon, 27 Jan 25 01:26:54 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg'." }
+
+Mon, 27 Jan 25 01:28:02 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg'." }
+
+Mon, 27 Jan 25 01:29:21 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg'." }
+
+Mon, 27 Jan 25 01:30:09 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg'." }
+
+Mon, 27 Jan 25 01:35:38 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/pkg\/brew\/dlc-brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/pkg\/brew\/dlc-brew.pkg'." }
+
+Mon, 27 Jan 25 01:36:29 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/pkg\/brew\/dlc-brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/pkg\/brew\/dlc-brew.pkg'." }
+
+Mon, 27 Jan 25 01:38:04 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/pkg\/brew\/brew.pkg'." }
+
+Mon, 27 Jan 25 01:39:58 +0000		install		{ "status": "success", "task_id": 403, "title": "Brew" }
+
+Mon, 27 Jan 25 01:40:54 +0000		install		{ "status": "success", "task_id": 405, "title": "Brew" }
+
+Mon, 27 Jan 25 01:41:46 +0000		install		{ "status": "success", "task_id": 407, "title": "Brew" }
+
+Mon, 27 Jan 25 01:44:45 +0000		install		{ "status": "success", "task_id": 409, "title": "Brew" }
+
+Mon, 27 Jan 25 01:45:04 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 01:45:15 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 01:47:54 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 01:48:13 +0000		install		{ "status": "success", "task_id": 411, "title": "Brew" }
+
+Mon, 27 Jan 25 01:48:49 +0000		install		{ "status": "success", "task_id": 413, "title": "Brew" }
+
+Mon, 27 Jan 25 01:52:01 +0000		install		{ "status": "success", "task_id": 415, "title": "Brew" }
+
+Mon, 27 Jan 25 01:53:45 +0000		install		{ "status": "success", "task_id": 417, "title": "Brew" }
+
+Mon, 27 Jan 25 01:54:12 +0000		install		{ "status": "success", "task_id": 419, "title": "Brew" }
+
+Mon, 27 Jan 25 01:55:41 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 01:55:57 +0000		install		{ "status": "success", "task_id": 421, "title": "Brew" }
+
+Mon, 27 Jan 25 01:56:14 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 02:06:56 +0000		install		{ "status": "success", "task_id": 423, "title": "Brew" }
+
+Mon, 27 Jan 25 02:08:49 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 02:09:28 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 02:10:42 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 02:10:58 +0000		install		{ "status": "success", "task_id": 425, "title": "Brew" }
+
+Mon, 27 Jan 25 02:16:37 +0000		install		{ "status": "success", "task_id": 427, "title": "Brew" }
+
+Mon, 27 Jan 25 02:34:44 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 02:34:56 +0000		install		{ "status": "success", "task_id": 429, "title": "Remote PKG installer" }
+
+Mon, 27 Jan 25 02:49:53 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hb\/extra\/temp\/': Package header size mismatch for 'http:\/\/192.168.1.32\/hb\/extra\/temp\/'." }
+
+Mon, 27 Jan 25 02:50:13 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hb\/extra\/temp\/': Package header size mismatch for 'http:\/\/192.168.1.32\/hb\/extra\/temp\/'." }
+
+Mon, 27 Jan 25 02:56:41 +0000		install		{ "status": "success", "task_id": 431, "title": "Brew" }
+
+Mon, 27 Jan 25 02:57:30 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 02:57:40 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 02:58:22 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hb\/extra\/temp\/': Package header size mismatch for 'http:\/\/192.168.1.32\/hb\/extra\/temp\/'." }
+
+Mon, 27 Jan 25 02:59:45 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hb\/extra\/temp\/': Package header size mismatch for 'http:\/\/192.168.1.32\/hb\/extra\/temp\/'." }
+
+Mon, 27 Jan 25 02:59:53 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 03:00:19 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 03:00:24 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 03:00:50 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 03:01:02 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 03:01:10 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 03:01:22 +0000		install		{ "status": "success", "task_id": 433, "title": "Brew" }
+
+Mon, 27 Jan 25 03:04:45 +0000		install		{ "status": "success", "task_id": 435, "title": "Brew" }
+
+Mon, 27 Jan 25 03:05:20 +0000		install		{ "status": "success", "task_id": 437, "title": "Brew" }
+
+Mon, 27 Jan 25 03:10:37 +0000		install		{ "status": "success", "task_id": 439, "title": "Brew" }
+
+Mon, 27 Jan 25 03:38:20 +0000		install		{ "status": "success", "task_id": 441, "title": "Brew" }
+
+Mon, 27 Jan 25 03:42:50 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Mon, 27 Jan 25 03:43:43 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Mon, 27 Jan 25 03:43:54 +0000		install		{ "status": "success", "task_id": 443, "title": "Brew" }
+
+Mon, 27 Jan 25 03:46:23 +0000		install		{ "status": "success", "task_id": 445, "title": "Brew" }
+
+Mon, 27 Jan 25 03:52:10 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 03:58:17 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 03:58:37 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 04:03:18 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 04:05:19 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 04:06:38 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 04:06:42 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Mon, 27 Jan 25 04:07:36 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Mon, 27 Jan 25 04:42:49 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 04:55:22 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 04:56:36 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Mon, 27 Jan 25 15:50:50 +0000		install		{ "status": "success", "task_id": 437, "title": "Brew" }
+
+Mon, 27 Jan 25 15:51:18 +0000		install		{ "status": "success", "task_id": 439, "title": "Brew" }
+
+Mon, 27 Jan 25 15:51:55 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Mon, 27 Jan 25 15:52:04 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Mon, 27 Jan 25 15:52:09 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Mon, 27 Jan 25 15:53:40 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Mon, 27 Jan 25 16:11:40 +0000		install		{ "status": "success", "task_id": 441, "title": "Asterix & Obelix Slap Them All!" }
+
+Mon, 27 Jan 25 16:31:56 +0000		install		{ "status": "success", "task_id": 443, "title": "Nickelodeon All-Star Brawl" }
+
+Mon, 27 Jan 25 16:38:25 +0000		install		{ "status": "success", "task_id": 444, "title": "Nickelodeon All-Star Brawl" }
+
+Mon, 27 Jan 25 16:42:24 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hb\/pkg\/\/Nickelodeon.All.Star.Brawl-CUSA25399\/%5bSPSX%5d-Nickelodeon.All.Star.Brawl-CUSA25399-USA-Game-%288.50+%29-PS4.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/hb\/pkg\/\/" }
+
+Mon, 27 Jan 25 16:43:16 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hb\/pkg\/\/Nickelodeon.All.Star.Brawl-CUSA25399\/%5bSPSX%5d-Nickelodeon.All.Star.Brawl-CUSA25399-USA-Game-%288.50+%29-PS4.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/hb\/pkg\/\/" }
+
+Mon, 27 Jan 25 16:43:16 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hb\/pkg\/\/Nickelodeon.All.Star.Brawl-CUSA25399\/%5bSPSX%5d-Nickelodeon.All.Star.Brawl-CUSA25399-USA-Game-%288.50+%29-PS4.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/hb\/pkg\/\/" }
+
+Mon, 27 Jan 25 16:43:20 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/192.168.1.32\/hb\/pkg\/\/Nickelodeon.All.Star.Brawl-CUSA25399\/%5bSPSX%5d-Nickelodeon.All.Star.Brawl-CUSA25399-USA-Game-%288.50+%29-PS4.pkg': Unable to download package header for 'http:\/\/192.168.1.32\/hb\/pkg\/\/" }
+
+Mon, 27 Jan 25 16:43:24 +0000		install		{ "status": "success", "task_id": 445, "title": "Nickelodeon All-Star Brawl" }
+
+Mon, 27 Jan 25 16:56:39 +0000		install		{ "status": "success", "task_id": 446, "title": "Brew" }
+
+Tue, 28 Jan 25 14:17:07 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:18:32 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:18:42 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:18:49 +0000		install		{ "status": "success", "task_id": 437, "title": "Brew" }
+
+Tue, 28 Jan 25 14:19:37 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:19:55 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:19:57 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:20:01 +0000		install		{ "status": "success", "task_id": 439, "title": "Brew" }
+
+Tue, 28 Jan 25 14:22:30 +0000		install		{ "status": "success", "task_id": 441, "title": "Brew" }
+
+Tue, 28 Jan 25 14:44:46 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:44:52 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:45:40 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:45:56 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 14:46:05 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 14:59:07 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:02:48 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:02:50 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:02:53 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:02:56 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:02:57 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:02:57 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:02:58 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:02:59 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:08 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:12 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:14 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:28 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:34 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:35 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:36 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:51 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:03:55 +0000		install		{ "status": "success", "task_id": 443, "title": "Brew" }
+
+Tue, 28 Jan 25 15:03:59 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:02 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:06 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:09 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:10 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:11 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:14 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:27 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:28 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:37 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:39 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:40 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:43 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:44 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:04:55 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:08:23 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:08:36 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:08:37 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:09:54 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:10:03 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:10:04 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:10:58 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:11:42 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:11:49 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:13:47 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:14:19 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:26:57 +0000		install		{ "status": "fail", "error": "Unable to set up prerequisites for package 'http:\/\/': Unable to download package header for 'http:\/\/'." }
+
+Tue, 28 Jan 25 15:27:03 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:28:05 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:30:07 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:31:05 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:31:54 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
+
+Tue, 28 Jan 25 15:34:35 +0000		install		{ "status": "fail", "error_code": 0x80990015 }
