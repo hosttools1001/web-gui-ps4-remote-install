@@ -1,0 +1,230 @@
+.btn-title:hover{
+	display:none;
+}
+.btn-title{
+	cursor:pointer;
+	border: none;
+    background-color: transparent;
+    position: fixed;
+}
+ /* Estilizando o menu lateral */
+ .sidebar {
+	text-align:center;
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.3s;
+    padding-top: 60px;
+}
+
+.sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidebar a:hover {
+    color: #f1f1f1;
+}
+
+.sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 1px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+.openbtn:hover {
+    background-color: #444;
+}
+.btn-touch{
+	color:transparent;
+	background-color: transparent;
+    border: none;
+}
+#main {
+    transition: margin-left .3s;
+}
+
+.game-container {
+	padding: 5px;
+	box-shadow: 0 0 10px rgb(0 0 0);
+	cursor:pointer;
+	border-radius: 5px;
+    border: 10px solid #003263;
+    background-color: #f0f0f0;
+    width: 220px;
+    height: 269px;
+    overflow: hidden;
+    position: relative;
+    transition: all 0.3s ease;
+}
+.game-container:hover {
+	box-shadow: 0 0 10px rgb(0 0 0);
+	border: 10px solid #007bff;
+}
+
+.game-container.expanded {
+    height: auto; /* Aumenta a altura para se ajustar ao conteúdo */
+}
+
+.expand-btn {
+    position: absolute;
+    bottom: 4px;
+    left: 91%;
+    transform: translateX(-50%);
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.expand-btn:hover {
+    background-color: #0056b3;
+}
+
+
+.fa-solid {
+    position: absolute;
+    bottom: 4px;
+    left: 91%;
+    transform: translateX(-50%);
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.game-container h2 {
+    padding: 8px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.file-item {
+    margin: 10px 0;
+}
+
+.file-item button, .save-ip {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.file-item button:hover ,.save-ip:hover ,.fa-solid:hover{
+    background-color: #0056b3;
+}
+
+body {
+    padding: 10px;
+	background: url(../imagens/qwe.jpg) no-repeat;
+	background-size: auto; 
+	}
+.content-title {
+padding: 0px 20px;
+margin: 1px;
+background: #003263;
+color: #fff;
+border: 1px solid #6392b1;
+}
+.contentblock {
+margin: 10px;
+}
+.flex-container {
+padding: 0;
+margin: 0;
+list-style: none;
+display: -webkit-box;
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+-webkit-flex-flow: row wrap;
+justify-content: space-around;
+}
+.flex-item {
+padding-top: 20px;
+width: 350px;
+height: 200px;
+}
+select {
+width: 350px; /* Ширина списка в пикселах */
+}
+.credits{overflow:hidden;left:50%;font-size:16px;font-family:sans-serif;text-align:center;}
+/* Estilos para o layout de pacotes */
+
+.package-container {
+text-align:center;
+display: flex;
+flex-wrap: wrap; /* Permite que as divs se ajustem para a próxima linha quando necessário */
+gap: 20px; /* Espaçamento entre os pacotes */
+justify-content: center; /* Alinha os pacotes ao centro */
+padding: 20px;
+}
+
+.package-item {
+width: 150px;
+text-align: center;
+background-color: #f9f9f9;
+border: 1px solid #ccc;
+border-radius: 8px;
+padding: 10px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.pkg-image {
+width: 100%;
+height: auto;
+border-radius: 8px;
+}
+
+.pkg-title {
+font-weight: bold;
+margin-top: 10px;
+font-size: 16px;
+}
+
+.download-btn {
+display: block;
+margin-top: 10px;
+padding: 8px;
+background-color: #4CAF50;
+color: white;
+text-decoration: none;
+text-align: center;
+border-radius: 4px;
+font-size: 14px;
+border: none;
+cursor: pointer;
+}
+
+.download-btn:hover {
+background-color: #45a049;
+}
