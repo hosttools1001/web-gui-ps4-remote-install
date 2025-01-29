@@ -30,6 +30,7 @@ pelo navegador va para (http://IP_MAQUINA_XAMPP/DIRETORIO DO PROJETO)
 ex: (http://192.168.1.24/ps4remote)
 
 defina o ip do ps4 clicando no menu pagina escolha um pkg e instale.
+E possivel instalar apartir do navegador tanto do ps4 quanto do pc.
 ![image](https://github.com/user-attachments/assets/bea0499f-6966-4dee-9667-fabf45b52cb8)
 
 
