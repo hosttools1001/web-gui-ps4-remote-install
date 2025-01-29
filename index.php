@@ -61,7 +61,7 @@ if (isset($_POST['procedure']) && isset($_POST['ip'])) {
 			<center>
 				<h1>PS4 Remote Package Installer GUI</h1>
 			</center>
-			<form action="home.php" method="GET" style="text-align:center;">
+			<form action="index.php" method="GET" style="text-align:center;">
 				<label for="search">Buscar pacote:</label>
 				<input type="text" id="search" name="search" value="<?php echo isset($_GET['search']) ? htmlspecialchars($_GET['search']) : ''; ?>" style=" margin-bottom: 10px;padding: 8px;margin-top: 10px;border-radius: 4px;">
 				<input type="submit" id="buscar" value="Buscar" style="display:none;">
@@ -71,7 +71,7 @@ if (isset($_POST['procedure']) && isset($_POST['ip'])) {
 				<!-- Menu lateral -->
 		<div id="mySidebar" class="sidebar">
 			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-			<form action="home.php" method="POST">
+			<form action="index.php" method="POST">
 				<label for="ip" style="color: white;">IP PS4</label>
 				<input type="text" id="ip" name="ip" required pattern="^([0-9]{1,3}\.){3}[0-9]{1,3}$" value="<?php echo isset($_COOKIE['ip']) ? $_COOKIE['ip'] : ''; ?>" style="display: block; margin: auto; padding: 8px; margin-top: 10px;border-radius: 4px;" />
 				<input title="Salvar" class="save-ip" type="submit" value="Salvar" style="margin-top: 10px;" />
